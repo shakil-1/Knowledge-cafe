@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/HggtCJq/4.jpg",
+        "title": "The Enigmatic Chronicles",
+        "author": "Cassandra Thornfield",
+        "author_img": "https://i.ibb.co/HGL5Zj3/boy1.png",
+        "posted_date": "2023-08-12",
+        "reading_time": 7,
+        "hashtags": ["#Mystery", "#Adventure", "#Bestseller"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/TrVBKd7/1.jpg",
+        "title": "Secrets of the Starship Galaxy",
+        "author": "Xavier Nova",
+        "author_img": "https://i.ibb.co/sPnjJRG/boy2.jpg",
+        "posted_date": "2023-07-25",
+        "reading_time": 1,
+        "hashtags": ["#ScienceFiction", "#SpaceExploration", "#NewRelease"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/jwxZcSZ/3.png",
+        "title": "Whispers in the Woods",
+        "author": "Isabella Moonshadow",
+        "author_img": "https://i.ibb.co/rtPr9Fb/girl1.jpg",
+        "posted_date": "2023-09-03",
+        "reading_time": 1,
+        "hashtags": ["#Fantasy", "#Magic", "#Enchantment"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/jwxZcSZ/3.png",
+        "title": "Midnight Detective",
+        "author": "Ethan Blackwood",
+        "author_img": "https://i.ibb.co/RhYzb0j/girl2.jpg",
+        "posted_date": "2023-08-18",
+        "reading_time": 5,
+        "hashtags": ["#Thriller", "#Suspense", "#Detective"]
+    },
+    {
+        "id": "5",
+        "cover": "https://example.com/book5_cover.jpg",
+        "title": "Culinary Adventures",
+        "author": "Olivia Gourmet",
+        "author_img": "https://example.com/author5_img.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 0,
+        "hashtags": ["#Cookbook", "#Culinary", "#Foodie"]
+    }
+]
